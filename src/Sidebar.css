@@ -1,0 +1,32 @@
+.sidebar{
+    flex: 0.4;
+    border-right: rgb(0, 0, 0) 2px solid;
+    background-color: #bdc3c7;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.sidebar > p{
+    padding: 4px;
+}
+
+.sidebar > p:hover{
+    font-weight: bold;
+    cursor: pointer;
+    background-color: lightgrey;
+}
+
+.sidebar > h1{
+    display: flex;
+}
+
+.sidebar.selected{
+    background-color: gray;
+}
+
+button{
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+}
