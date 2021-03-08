@@ -1,19 +1,11 @@
 .header{
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    justify-content: center;
     background-color: #201e1e;
 }
 
-.header__logo{
-    height: 50px !important;
-    width: 50px !important;
-    color: rgb(226, 10, 10);
-    margin: 5px;
-    border-radius: 10px;
-}
-
 .header > h1{
-    color: red;
-    padding: 0px 10px;
+    color: rgb(207, 207, 207);
+    text-transform: uppercase;
+    text-shadow: white 1px 1px;
 }

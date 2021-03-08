@@ -1,7 +1,9 @@
 *{
   margin: 0;
+  scroll-behavior: smooth;
 }
 
 .app__main{
   display: flex;
+  background-color: rgb(238, 238, 238);
 }

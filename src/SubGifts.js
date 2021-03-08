@@ -2,7 +2,7 @@ import React from "react";
 import "./SubGifts.css";
 
 
-function SubGifts({image, description, price,title , url}) {
+function SubGifts({image, description, price,title , url, id}) {
     return (
         <div>
             <div className="subgifts">
