@@ -33,13 +33,13 @@ function Gifts() {
 
                     {choice === "All" || choice === "MTB"? <SubGifts title="Rebuild kit for fork" image="https://static.summitracing.com/global/images/prod/mediumlarge/hdd-820-2711_ml.jpg" description="So this is really hard to find, its the oils and things for a rebuild you could check S4 suspension but its hard to find and assemble everything" price=""/> : <div></div>}
 
-                    {choice === "All" || choice === "MTB"? <SubGifts title="HandleBar" image="https://www.primeauvelo.com/media/catalog/product/cache/3/thumbnail/56x56/9df78eab33525d08d6e5fb8d27136e95/8/2/826974023674.jpg" description="HnadleBar to be more aggressive" price="110 CA" url="https://www.primeauvelo.com/fr/guidon-fubars-osx-31-8mm-800mm-106393-0026680.html"/> : <div></div>}
+                    {choice === "All" || choice === "MTB"? <SubGifts title="Decals for my fork" image="https://i.etsystatic.com/21744159/r/il/23fb59/2505488380/il_794xN.2505488380_3bqg.jpg" description="just to add some stickers to my bike" price="32CAD" url="https://www.etsy.com/ca/listing/851147990/decals-for-fork-fox-36-metallized-2019?gpla=1&gao=1&utm_source=google&utm_medium=cpc&utm_campaign=shopping_ca_en_ca_b-toys_and_games-sports_and_outdoor_games-other&utm_custom1=_k_Cj0KCQiAs5eCBhCBARIsAEhk4r4wMBZnfQc5YNtcDr4xhC3WTFecGFtZSCGXe5-f8q8nAJl-Qczw0PAaAnXhEALw_wcB_k_&utm_content=go_319627965_19422853365_75223851885_aud-1184769867519%3Apla-106555126115_c__851147990enca_241830962&utm_custom2=319627965&gclid=Cj0KCQiAs5eCBhCBARIsAEhk4r4wMBZnfQc5YNtcDr4xhC3WTFecGFtZSCGXe5-f8q8nAJl-Qczw0PAaAnXhEALw_wcB&variation0=1530705479"/> : <div></div>}
 
                     {choice === "All" || choice === "MTB"? <SubGifts title="AngleSet to slacken" image="https://canecreek.com/wp-content/uploads/2017/12/DRS3491.jpg" description="allowed me to slacken and make my mtb more capable" price="174 CA" url="https://canecreek.com/product/angleset/"/> : <div></div>}
 
                     {choice === "All" || choice === "Fashion"? <SubGifts id="test" title="Hair straightener" image="https://images-na.ssl-images-amazon.com/images/I/61n-SjXgUJL._SL1500_.jpg" description="I want to try straightening my hair from time to time lol" price=""/> : <div></div>}
 
-                    {choice === "All" || choice === "MTB"? <SubGifts title="Sports socks" image="https://cdn.shopify.com/s/files/1/1477/6714/products/mist_a38434a9-cc31-45df-804c-75645738bdf7_600x.png?v=1604723225" description="I like these socks because they allow me to look cool af" price="20 CAD" url="https://www.endurapparel.com/collections/best-sellers/products/mist"/> : <div></div>}
+                    {choice === "All" || choice === "MTB"? <SubGifts title="Sports socks" image="https://cdn.shopify.com/s/files/1/1477/6714/products/mist_893477e4-9bb2-49ee-9b59-1dfa5df27d20_800x.png?v=1618248791" description="I like these socks because they allow me to look cool af" price="20 CAD" url="https://www.endurapparel.com/collections/best-sellers/products/mist"/> : <div></div>}
 
                     {choice === "All" || choice === "Fashion"? <SubGifts title="Design a logo" image="https://www.mckinsey.com/~/media/McKinsey/Business%20Functions/Operations/Our%20Insights/The%20expanding%20role%20of%20design%20in%20creating%20an%20end%20to%20end%20customer%20experience/Expanding-role-of-design-1536x1536-400_Standard.jpg" description="I don't have a logo design for my website yet, But if you make one that's cool I am just gonne be blown away" price="Priceless"
                     url=""/> : <div></div>}
@@ -49,9 +49,6 @@ function Gifts() {
 
                     {choice === "All" || choice === "MTB"? <SubGifts title="Truing Stand" category="Biking" image="https://images-na.ssl-images-amazon.com/images/I/71NJN70Y7KL._AC_SL1500_.jpg" description="I think I am gonna need a truing stand in the futur because I keep breaking all my wheels" price="200-400 CAD"
                     url="https://www.amazon.ca/-/fr/Park-Tool-Professional-Wheel-Truing/dp/B00NQAA7BS/ref=pd_lpo_200_img_1/132-6171209-4385110?_encoding=UTF8&pd_rd_i=B00NQAA7BS&pd_rd_r=4ef8bad4-4d54-43a1-8e9c-99db1924e57e&pd_rd_w=rFrEC&pd_rd_wg=x8wUj&pf_rd_p=256a14b6-93bc-4bcd-9f68-aea60d2878b9&pf_rd_r=T2RWWNWKS94S3NDGJ1Y2&psc=1&refRID=T2RWWNWKS94S3NDGJ1Y2"/> : <div></div>}
-
-                    {choice === "All" || choice === "MTB"? <SubGifts title="MTB Helmet" category="Biking" image="https://www.bellhelmets.com/dw/image/v2/BDBJ_PRD/on/demandware.static/-/Sites-bell-master-catalog/default/dw44dea673/images/large/bell-super-3r-mips-mountain-bike-helmet-downdraft-matte-gray-gunmetal-right.jpg?sw=800&sh=800&sm=fit" description="I Have a closed face helmet, but having a helmet that can close and open would be awesome, the downside is its pretty expensive" price="250 CAD"
-                    url="https://www.bellhelmets.com/bike/p/super-3r-mips-mountain-bike-helmet/100000000500000059.html"/> : <div></div>}
 
                     {choice === "All" || choice === "Camera"? <SubGifts title="Curved Monitor" image="https://multimedia.bbycastatic.ca/multimedia/products/500x500/143/14398/14398508.jpg" description="I never had a curved monitor yet, seems there is hype around it might as well check" price="600 CAD"
                     url="https://www.bestbuy.ca/en-ca/product/dell-31-5-qhd-165hz-4ms-gtg-curved-va-led-freesync-gaming-monitor-s3220dgf-ascent-grey/14398508"/> : <div></div>}
@@ -68,8 +65,6 @@ function Gifts() {
                     {choice === "All" || choice === "MTB"? <SubGifts title="Bleed Kit" category="Biking" image="https://m.media-amazon.com/images/I/61AsDdm1PyL._SR500,500_.jpg" description="Bleed kit that allows me to dial in my brakes" price="40 CAD"
                     url="https://www.amazon.ca/slp/shimano-bleed-kit/2v3rgz7g9pkm5aq"/> : <div></div>}
 
-                    {choice === "All" || choice === "MTB"? <SubGifts title="Biking Bottle/Protein " image="https://s14761.pcdn.co/wp-content/uploads/2018/02/Bottle-Cage-Shootout-Test-Review-CB-35-von-39-980x653.jpg" description="I kinda want some reusable bottles" price="10 CAD"/> : <div></div>}
-
                     {choice === "All" || choice === "MTB"? <SubGifts title="Altitude 29erXL" category="Biking" image="https://www.bikes.com/sites/default/files/styles/homeslide_tall/public/hero/Web_MY21_Altitude_29_C99_C1_Hero.jpg?itok=YMp6OaIC" description="Winning 2021 Enduro Bike" price="4200 CAD" url="https://www.bikes.com/en/bikes/altitude/2021-0" /> : <div></div>}
 
                     {choice === "All" || choice === "MTB"? <SubGifts title="RANGE A2 XL" category="Biking" image="https://www.norco.com/cmsb/uploads/bikes/bikes/20_range_a-9-2_chr.png" description="Enduro Ride with the most progressive GEO" price="3600 CAD" url="https://www.norco.com/bikes/2020/mountain/enduro/range-aluminum/range-a2/" /> : <div></div>}
@@ -83,8 +78,6 @@ function Gifts() {
                     {choice === "All" || choice === "Fashion"? <SubGifts title="Daishiki Shirt" image="http://d3nt9em9l1urz8.cloudfront.net/media/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/0/8/08-04-1510deep-025.jpg" description="Just a very particulur shirt that I think is cool" price="70 Cad"/> : <div></div>}
 
                     {choice === "All" || choice === "Camera"? <SubGifts title="Condenser Mick" image="https://consordini.com/wp-content/uploads/2019/07/blue-yeti-nano-condenser-usb-mic.jpg" description="Microphone to do clear voiceOver my Videos" price="250 Cad" url="https://www.amazon.ca/dp/B07DTTGZ7M/ref=as_li_ss_tl?language=en_US&ie=UTF8&linkCode=gs2&linkId=4e6b4649f54de27b27089d2cf56ad422&tag=consor0c-20" /> : <div></div>}
-
-                    {choice === "All" ?<SubGifts title="Pack of monster Drinks" image="https://images-na.ssl-images-amazon.com/images/I/812EcnH%2BtxL._AC_SL1500_.jpg" description="Just caffeine drinks of pure and raw energy." price="86 CAD" url="https://www.amazon.ca/Monster-Energy-Drink-Ounce-Pack/dp/B006IMBHVU"/> : <div></div>}
 
                     {choice === "All" ?<SubGifts title="Heated Insoles" image="https://canadiantire.scene7.com/is/image/CanadianTire/1750704_1?&layer=comp&fit=constrain,1&wid=45&hei=45&fmt=jpg" description="Heated insoles that can keep my feet warm during winter activity" price="100-200 CAD"
                     url="https://www.amazon.ca/-/fr/Park-Tool-Professional-Wheel-Truing/dp/B00NQAA7BS/ref=pd_lpo_200_img_1/132-6171209-4385110?_encoding=UTF8&pd_rd_i=B00NQAA7BS&pd_rd_r=4ef8bad4-4d54-43a1-8e9c-99db1924e57e&pd_rd_w=rFrEC&pd_rd_wg=x8wUj&pf_rd_p=256a14b6-93bc-4bcd-9f68-aea60d2878b9&pf_rd_r=T2RWWNWKS94S3NDGJ1Y2&psc=1&refRID=T2RWWNWKS94S3NDGJ1Y2"/> : <div></div>}
@@ -107,7 +100,6 @@ function Gifts() {
 
                     {choice === "All" || choice === "MTB"? <SubGifts title="Mtb Googles" category="Biking" image="https://smithoptics.scene7.com/is/image/smithoptics/M0083101O991Y?$full$&defaultImage=image_not_available" description="just cool mtb googles" price="85 USD"  url="https://www.smithoptics.ca/ca/Root/Men%27s/Goggles/Off-Road/Fuel-V-2/p/M0083101O991Y"/> : <div></div>}
 
-                    {choice === "All" || choice === "Fashion"? <SubGifts title="Insole" description="just need some insoles for my old shoes my feetsize is 11.5 US" price="40 CAD"/> : <div></div>}
                 </div>
                 <hr />
 
