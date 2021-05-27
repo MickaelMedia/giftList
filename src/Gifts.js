@@ -100,6 +100,10 @@ function Gifts() {
 
                     {choice === "All" || choice === "MTB"? <SubGifts title="Mtb Googles" category="Biking" image="https://smithoptics.scene7.com/is/image/smithoptics/M0083101O991Y?$full$&defaultImage=image_not_available" description="just cool mtb googles" price="85 USD"  url="https://www.smithoptics.ca/ca/Root/Men%27s/Goggles/Off-Road/Fuel-V-2/p/M0083101O991Y"/> : <div></div>}
 
+                    {choice === "All" || choice === "MTB"? <SubGifts title="Cushcore" category="Biking" image="https://www.primeauvelo.com/media/catalog/product/6/4/649862952104_3.jpg?width=560&height=560&canvas=560:560&quality=80&bg-color=255,255,255&fit=bounds" description="Tire inserts that will save my rim if i land on a rock too hard" price="229 CAD"  url="https://www.primeauvelo.com/en_ca/cushcore-plus-set-29-0026700?gclid=CjwKCAjw47eFBhA9EiwAy8kzNOUq6lPw4M3oS1ot8Ktcf_mbQog0swXIW4qvyNICwBbm4UxcEQQU1BoCAnAQAvD_BwE"/> : <div></div>}
+
+                    {choice === "All" || choice === "Fashion"? <SubGifts title="Silver Necklace" category="Fashion" image="https://www.jewlr.ca/product-img/JWLMP0043-24.jpg?dim=414&view=t2&sku=SS&o1=2&ch=24SSFI" description="Kinda getting sick of having to relace leather for a necklace, this should make everything chill for awhile"/> : <div></div>}
+
                 </div>
                 <hr />
 
