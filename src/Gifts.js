@@ -65,6 +65,9 @@ function Gifts() {
 
                     {choice === "All" || choice === "MTB"? <SubGifts title="Instinc 29erXL" category="Biking" image="https://www.bikes.com/sites/default/files/styles/model_image_slider_hires3k/public/models/Web_MY21_Instinct_29_A30_C1_Profile.jpg?itok=VBpvIPsh" description="The perfect bike for me from the brand that I admire" price="3860 CAD" url="https://www.bikes.com/en/bikes/instinct/2021?tid=72" /> : <div style={{display:"none"}}></div>}
 
+                    {choice === "All" || choice === "MTB"? <SubGifts title="Sight A3 29 XL" category="Biking" image="https://www.norco.com/cmsb/uploads/bikes/bikes/my21_sight_a3_29_silver_silver-full.webp" description="Honestly the most reasonable bike here on the list, It would be my one quiver killer" price="4199 CAD" url="https://www.norco.com/bikes/2021/mountain/all-mountain/sight/sight-a3/" /> : <div style={{display:"none"}}></div>}
+
+
                     {choice === "All" || choice === "MTB"? <SubGifts title="Kona 153 XL" category="Biking" image="https://images.konaworld.com/2021/med/process_153_29.jpg" description="Apparently funnest bike, not fastest" price="4200 CAD" url="https://www.konaworld.com/process_153_29.cfm" /> : <div style={{display:"none"}}></div>}
 
                     {choice === "All" || choice === "MTB"? <SubGifts title="MTB pants" category="Biking" image="https://s14761.pcdn.co/wp-content/uploads/2019/04/mtb-riding-pants-trousers-review-test-0568-1140x760.jpg" description="mountain bike pants that are unique, if you want you can even stitch a logo on it xD" price="70 Cad" url="https://enduro-mtb.com/en/best-mtb-pants/" /> : <div style={{display:"none"}}></div>}
